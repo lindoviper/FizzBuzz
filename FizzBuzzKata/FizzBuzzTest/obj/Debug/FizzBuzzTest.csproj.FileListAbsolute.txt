@@ -1,0 +1,9 @@
+/Users/lindombuthuma/Projects/FizzBuzzKata/FizzBuzzTest/bin/Debug/FizzBuzzTest.dll
+/Users/lindombuthuma/Projects/FizzBuzzKata/FizzBuzzTest/bin/Debug/FizzBuzzTest.pdb
+/Users/lindombuthuma/Projects/FizzBuzzKata/FizzBuzzTest/bin/Debug/nunit.framework.dll
+/Users/lindombuthuma/Projects/FizzBuzzKata/FizzBuzzTest/bin/Debug/nunit.framework.xml
+/Users/lindombuthuma/Projects/FizzBuzzKata/FizzBuzzTest/obj/Debug/FizzBuzzTest.csprojAssemblyReference.cache
+/Users/lindombuthuma/Projects/FizzBuzzKata/FizzBuzzTest/obj/Debug/FizzBuzzTest.csproj.CoreCompileInputs.cache
+/Users/lindombuthuma/Projects/FizzBuzzKata/FizzBuzzTest/obj/Debug/FizzBuzzTest.csproj.CopyComplete
+/Users/lindombuthuma/Projects/FizzBuzzKata/FizzBuzzTest/obj/Debug/FizzBuzzTest.dll
+/Users/lindombuthuma/Projects/FizzBuzzKata/FizzBuzzTest/obj/Debug/FizzBuzzTest.pdb

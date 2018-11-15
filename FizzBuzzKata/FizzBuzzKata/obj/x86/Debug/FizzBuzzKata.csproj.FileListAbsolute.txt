@@ -1,0 +1,6 @@
+/Users/lindombuthuma/Projects/FizzBuzzKata/FizzBuzzKata/bin/Debug/FizzBuzzKata.exe
+/Users/lindombuthuma/Projects/FizzBuzzKata/FizzBuzzKata/bin/Debug/FizzBuzzKata.pdb
+/Users/lindombuthuma/Projects/FizzBuzzKata/FizzBuzzKata/obj/x86/Debug/FizzBuzzKata.csprojAssemblyReference.cache
+/Users/lindombuthuma/Projects/FizzBuzzKata/FizzBuzzKata/obj/x86/Debug/FizzBuzzKata.csproj.CoreCompileInputs.cache
+/Users/lindombuthuma/Projects/FizzBuzzKata/FizzBuzzKata/obj/x86/Debug/FizzBuzzKata.exe
+/Users/lindombuthuma/Projects/FizzBuzzKata/FizzBuzzKata/obj/x86/Debug/FizzBuzzKata.pdb
